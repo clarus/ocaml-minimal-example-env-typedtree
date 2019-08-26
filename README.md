@@ -7,4 +7,4 @@ make
 
 Example tested with OCaml 4.05.0, but I cannot make this work with OCaml 4.07 either.
 
-**Note:** the solution by [tefis](https://discuss.ocaml.org/u/trefis) was to first set the `cmt_loadpath` using `Config.load_path := cmt_loadpath;`; see https://discuss.ocaml.org/t/getting-the-environment-from-the-ast-in-cmt/4287
+**Note:** the solution by [tefis](https://discuss.ocaml.org/u/trefis) is to first set the `cmt_loadpath` using `Config.load_path := cmt_loadpath;`; see https://discuss.ocaml.org/t/getting-the-environment-from-the-ast-in-cmt/4287
