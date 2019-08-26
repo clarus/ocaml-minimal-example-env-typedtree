@@ -4,3 +4,5 @@ Here is a minimal example about something I do not understand with the typed tre
 ```
 make
 ```
+
+Example tested with OCaml 4.05.0, but I cannot make this work with OCaml 4.07 either.
